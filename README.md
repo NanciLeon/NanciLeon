@@ -1,4 +1,17 @@
-### Hi there 👋
+### Oi, sou a Nanci! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+- :books: Estudante de desenvolvimento
+- 🏡 Argentina, vivendo em Blumenau, SC
+- 🌱 Sempre buscando aprender e crescer mais
+- 👼 Eu me importo com um código de qualidade e que seja legível
+
+### Linguagens:
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NanciLeon&layout=compact&theme=dark&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ ### Você pode me encontrar aqui:
+
+   <a href="https://www.linkedin.com/in/nanci-le%C3%B3n-403519236"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
+
 
 <!--
 **NanciLeon/NanciLeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
