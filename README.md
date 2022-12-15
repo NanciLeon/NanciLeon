@@ -2,7 +2,8 @@
 - :books: Estudante de Análise e Desenvolvimento de Sistemas em UniCesumar
 - 🏡 Argentina, vivendo em Blumenau, SC
 - 🌱 Sempre buscando aprender e crescer mais
--
+- 😄 Pronouns: ela/ dela
+
 
  
  ### Você pode me encontrar aqui:
